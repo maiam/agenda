@@ -1,8 +1,8 @@
 
 package br.com.infnet.contatos;
 
-import br.com.maiam.util.DAOException;
-import br.com.maiam.util.FabricaDeConexoes;
+import br.com.infnet.contatos.DAOException;
+import br.com.infnet.jdbc.FabricaDeConexoes;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
